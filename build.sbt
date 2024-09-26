@@ -1,6 +1,6 @@
 val zioVersion                  = "2.0.13"
 val scala3_Version              = "3.3.1"
-val scala2_13Version            = "2.13.12"
+val scala2_13Version            = "2.13.15"
 val scala2_12Version            = "2.12.18"
 val zioConfigVersion            = "4.0.0-RC16"
 val nebulaClientVersion         = "3.6.1"
